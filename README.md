@@ -1,5 +1,3 @@
-# Steamtool
-
 <h1>安裝方法：</h1>
 <ul>
 <li>下載Steamtools的安裝包SteamtoolsSetup.exe，雙擊運行，將自動安裝部署。
